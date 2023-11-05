@@ -1,1 +1,1 @@
-console.log("i don't love git anymore");
+console.log("git is very powerful tool");
